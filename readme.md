@@ -1,2 +1,4 @@
-## Learn C++ Basic BY Programiz
-- Website: https://www.programiz.com
+## C++ Course: Learn the Essentials BY scaler.com
+Instructor : Prateek Narang
+
+- Website: https://www.scaler.com
