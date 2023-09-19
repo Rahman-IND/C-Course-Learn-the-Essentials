@@ -2,8 +2,9 @@
 
 #include<iostream>
 using namespace std;
-int main(){
+int main(){                             //  execution of the program starts
     //  print "hello world" statement
-    cout<<"Hello World";
-    return 0;
+    cout<<"Hello World";                //  print statement
+
+    return 0;                           //  end of execution
 }
