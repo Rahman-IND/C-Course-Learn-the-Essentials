@@ -37,11 +37,17 @@ int main(){
     }
 
     //  Less Then Equal To
-    if(a<=b){
-        cout<<"value of A is less then equal to B --> False"<<endl;
+    if(a<=10){
+        cout<<"value of A is less then equal to 10 --> True"<<endl;
     }else{
-        cout<<"value of A is not less then equal to B --> True"<<endl;
+        cout<<"value of A is not less then equal to 10 --> False"<<endl;
     }
 
+    //  greater then Equal To
+    if (a>=5){
+        cout<<"value of A is greater then equal to 5 --> True"<<endl;
+    }else{
+        cout<<"value of A is not greater then equal to 5 -- False"<<endl;
+    }
     return 0;
 }
